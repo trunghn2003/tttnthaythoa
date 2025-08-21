@@ -1,0 +1,8 @@
+[submodule "Deep-Learning-Based-Intrusion-Detection-NSL-KDD"]
+	path = Deep-Learning-Based-Intrusion-Detection-NSL-KDD
+	url = https://github.com/trunghn2003/Deep-Learning-Based-Intrusion-Detection-NSL-KDD
+	branch = master
+[submodule "Network-Intrusion-Detection"]
+	path = Network-Intrusion-Detection
+	url = https://github.com/trunghn2003/Network-Intrusion-Detection
+	branch = main
